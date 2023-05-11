@@ -85,7 +85,7 @@ void mainMenu()
 void addBook(){
  system("cls");
  int d, count=0;
- printf("\n\n\t\t **********Add book ******** ");
+ printf("\n\n\t\t **********Add  ******** ");
   file = fopen("books.dat","ab+");
 
   printf(" \n\t\t Enter ID: ");
